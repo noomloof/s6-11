@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    },
+    {
+      "email": "aoba@mail.com",
+      "password": "$2a$10$ETurug2t6lFhJf3v7HmJfutnQg3rjXov8in2QbE6l.Z4P.2IVlZbK",
+      "name": "batata",
+      "age": "20",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "message": "what the",
+      "author": "someperson",
+      "id": 1
+    },
+    {
+      "message": "hello there",
+      "author": "someperson",
+      "id": 2
+    },
+    {
+      "message": "tester3",
+      "author": "batata",
+      "id": 3
+    },
+    {
+      "message": "tester4",
+      "author": "batata",
+      "id": 4
+    },
+    {
+      "message": "tester4",
+      "id": 5
+    },
+    {
+      "message": "ayeeee",
+      "author": "potat",
+      "id": 6
+    }
+  ],
+  "secret": [
+    {
+      "link": "https://preview.redd.it/xspi1h47go351.jpg?auto=webp&s=16e2f86805d5d921b0ed10c3a999335e2e592a67",
+      "id": 1
+    }
+  ]
+}
